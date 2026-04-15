@@ -64,3 +64,4 @@
 [10] chore: update dependencies to latest versions - Wed Apr 15 16:54:28 PST 2026
 [11] feat: add search functionality - Wed Apr 15 16:54:29 PST 2026
 [12] fix: broken link in navigation menu - Wed Apr 15 16:54:29 PST 2026
+[13] docs: add API documentation - Wed Apr 15 16:54:30 PST 2026
