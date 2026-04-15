@@ -153,3 +153,4 @@
 [45] test: mock external API calls in tests - Wed Apr 15 16:58:21 PST 2026
 [46] feat: add multi-language support - Wed Apr 15 16:58:22 PST 2026
 [47] fix: incorrect calculation in total price - Wed Apr 15 16:58:22 PST 2026
+[48] chore: remove deprecated methods - Wed Apr 15 16:58:22 PST 2026
