@@ -155,3 +155,4 @@
 [47] fix: incorrect calculation in total price - Wed Apr 15 16:58:22 PST 2026
 [48] chore: remove deprecated methods - Wed Apr 15 16:58:22 PST 2026
 [49] feat: add keyboard shortcuts - Wed Apr 15 16:58:23 PST 2026
+[50] fix: race condition in data fetching - Wed Apr 15 16:58:23 PST 2026
