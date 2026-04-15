@@ -85,3 +85,4 @@
 [31] fix: incorrect date formatting - Wed Apr 15 16:54:40 PST 2026
 [32] docs: update changelog - Wed Apr 15 16:54:41 PST 2026
 [33] style: add loading spinner - Wed Apr 15 16:54:41 PST 2026
+[34] refactor: split large component into smaller ones - Wed Apr 15 16:54:42 PST 2026
